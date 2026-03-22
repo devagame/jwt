@@ -2,6 +2,10 @@
 
 A JWT plugin for gin, iris, go-frame, beego, go-zero, go-chassis, go-kit and other frameworks
 
+```shell
+Provide short tokens for weakly connected services and map them to long tokens to reduce server bandwidth pressure.
+```
+
 ## Use
 
 Download and install
